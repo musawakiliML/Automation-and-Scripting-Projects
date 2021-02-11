@@ -1,0 +1,9 @@
++234-883-234-9087
+234-677-444-9233
+testmail@hotmail.com
+gamil@octopus.ai
+i am testing regular expressions to find valid email and phone number.
++234-009-564-2351
+234-054-432-0033
+test_mail-hfd@hotmail.com
+gamil%50BU@octopus.ai
