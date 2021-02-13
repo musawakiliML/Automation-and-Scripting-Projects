@@ -10,17 +10,16 @@ strong_password = re.compile(r'''(
      $
 )''', re.VERBOSE)
 
-
 # creating the strong password validator function
 def strong_password_validator():
     print("Enter a password:")
-
     while True:
-        m = input()
-        mo = strong_password.search(m)
+        password_input = input()
+        mo = strong_password.search(password_input)
         if (not mo):
-            print("Your password should have at least one special charachter,\
-                two digits, two uppercase and three lowercase charachter.Length: 8+ characters.")
+            print("Your password should have at least one special charachter, two digits.")
+            print("At least two uppercase and three lowercase charachter.")
+            print("It Should be 8+ characters in lenght.")
             print("Enter another password:")
         else:
             print("Password is strong")
