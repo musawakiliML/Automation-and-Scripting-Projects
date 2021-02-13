@@ -22,7 +22,6 @@ def strong_password_validator():
             print("Your password should have at least one special charachter,\
                 two digits, two uppercase and three lowercase charachter.Length: 8+ characters.")
             print("Enter another password:")
-            m = input()
         else:
             print("Password is strong")
             return
