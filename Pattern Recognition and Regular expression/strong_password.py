@@ -1,5 +1,6 @@
 import re
 
+# creating the strong password regex
 strong_password = re.compile(r'''(
     ^(?=.*[A-Z].*[A-Z])     # at least two characters
      (?=.*[!@#$&*])         # at least one of the special characters
@@ -10,5 +11,9 @@ strong_password = re.compile(r'''(
 )''', re.VERBOSE)
 
 
-mo = strong_password.search("pro244grammEr.")
-print(mo.group())
+# creating the strong password validator function
+def strong_password_validator():
+    print("Enter a password:")
+
+    
+
