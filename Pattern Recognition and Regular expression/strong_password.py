@@ -1,9 +1,9 @@
 import re
 
 strong_password = re.compile(r'''(
-
+    ([A-z])
     [a-zA-Z0-9]+           #character class, upper, lower and numbers
-    [@+\%_|-|\.$]+          #character for symbols
+                           #character for symbols
 
 )''', re.VERBOSE)
 
