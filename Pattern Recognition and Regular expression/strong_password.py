@@ -26,3 +26,4 @@ def strong_password_validator():
         else:
             print("Password is strong")
             return
+strong_password_validator()
