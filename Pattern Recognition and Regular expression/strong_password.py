@@ -6,6 +6,7 @@ strong_password = re.compile(r'''(
      (?=.*[0-9].*[0-9])     # at least two numeric digits
      (?=.*[a-z].*[a-z].*[a-z]) # at least three lower case characters
      .{8,}                     # at least a total of eight characters 
+     $
 )''', re.VERBOSE)
 
 
