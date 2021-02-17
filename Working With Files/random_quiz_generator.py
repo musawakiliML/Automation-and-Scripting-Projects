@@ -46,5 +46,11 @@ for question_num in range(50):
     answer_options = wrong_answers + [correct_answer]
     random.shuffle(answer_options)
 
+# write the question and answer options to the quiz file.
+quiz_file.write(f"{question_num + 1}. What is the capital of {states[question_num]}")
+for  in range(4):
+    quiz_file.write(f"      {'ABCD'[i]}. {answer_options[i]}")
+quiz_file.write('\n')
 
 
+# write 
