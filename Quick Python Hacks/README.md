@@ -19,6 +19,17 @@ Beginner to intermediate Python developers looking for practical, quick, and eas
 
 ### Fun Scripts
 
+- [ ] Generating random memes using APIs.
+- [ ] Building a simple text-based game.
+- [ ] Simulating a dice roll.
+- [ ] Create a basic chatbot.
+- [ ] Convert text to speech and vice versa.
+- [ ] Image to pencil sketch
+- [ ] Calculate derivatives
+- [ ] Convert Video to audio
+- [ ] Create Font Art
+- [ ] Video to Gif
+
 ### Tech Tools
 
 ### Security and Privacy
