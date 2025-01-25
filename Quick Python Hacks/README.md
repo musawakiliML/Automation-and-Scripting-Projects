@@ -32,4 +32,12 @@ Beginner to intermediate Python developers looking for practical, quick, and eas
 
 ### Tech Tools
 
+- [ ] Fetching data from APIs.
+- [ ] Web scraping basic data.
+- [ ] Automating email sending.
+- [ ] Take Screenshots
+- [ ] Extract mp3 from mp4 video with ffmpeg
+- [ ] Remove background of image
+- [ ] Convert an image to grayscale
+
 ### Security and Privacy
