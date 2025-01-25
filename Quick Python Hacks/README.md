@@ -41,3 +41,11 @@ Beginner to intermediate Python developers looking for practical, quick, and eas
 - [ ] Convert an image to grayscale
 
 ### Security and Privacy
+
+- [ ] Encrypting and decrypting text.
+- [ ] Generating strong passwords.
+- [ ] Checking password strength with a script.
+- [ ] Validate email addresses using Regex.
+- [ ] Hide secret message in image
+- [ ] Encrypt PDF files
+- [ ] Hash a password
