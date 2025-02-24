@@ -8,7 +8,7 @@ Beginner to intermediate Python developers looking for practical, quick, and eas
 
 - [ ] Getting all saved WiFi passwords.
 - [ ] Creating QR codes for URLs or text.
-- [ ] Automating file renaming in a folder.
+- [x] Automating file renaming in a folder.
 - [ ] Generate QR codes with custom colors and logos.
 - [ ] Create bar charts with Matplotlib.
 - [ ] Create piecharts with Matplotlib.
